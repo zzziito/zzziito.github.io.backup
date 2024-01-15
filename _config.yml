@@ -344,7 +344,7 @@ imagemagick:
     - ".tiff"
     - ".gif"
   output_formats:
-    webp: "-quality 85"
+    webp: "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Optional Features
