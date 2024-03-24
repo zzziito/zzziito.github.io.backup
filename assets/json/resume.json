@@ -31,6 +31,15 @@
       // "endDate": "1955-01-01",
       "summary": "team Robot Vision",
       // "highlights": ["Relativity"]
+    },
+    {
+      "name": "ROBROS",
+      "position": "Research Intern",
+      "url": "https://robros.co.kr/",
+      "startDate": "2023-12-23",
+      "endDate": "2024-02-29",
+      "summary": "Research about robot arm collision detection algorithm using transformer architecture",
+      // "highlights": ["Relativity"]
     }
   ],
   "volunteer": [

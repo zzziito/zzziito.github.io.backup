@@ -27,6 +27,25 @@
       institution: Purdue University, West Lafayette, ID, US      
       year: 2022
 
+- title: Work
+  type: time_table
+  contents:
+    - title: Intern
+      maindescription: <i> Naver LABS </i>
+      location: South Korea
+      year: 2024.3.11-Present
+      # description:  Editing. Please refer to the resume.
+
+    - title: Research Intern
+      maindescription: <i> ROBROS </i>
+      location: Seoul            
+      year: 2023.12.23-2024.2.29     
+      description:
+        - Research about robot arm collision detection algorithm using transformer architecture
+        - Leveraged MuJoCo Simulator to gather simulated datasets
+        - Compared performace between RNNs and Transformer in the region of collision detection using PyTorch
+        # - Assisted Cisco API training sessions for clients.
+
 - title: Project
   type: time_table
   contents:
@@ -34,38 +53,38 @@
       maindescription: <i> Kyung Hee University </i>
       Advisor: Hyoseok Hwang
       year: 03.23 - 09.23
-      description:  Editing. Please refer to the resume.
+      # description:  Editing. Please refer to the resume.
 
     - title: Robot Vision Capsteon Design
       maindescription: <i> Kyung Hee University </i>
       Advisor: Hyoseok Hwang
       year: 09.22 - 12.22   
-      description:
-        - Collaborated with engineers across the Asia Pacific region through Cisco Webex.
+      # description:
+        # - Collaborated with engineers across the Asia Pacific region through Cisco Webex.
 
-    - title: Visiting Scholar, Department of Computer & IT
-      maindescription: <i> Purdue University, West Lafayette  </i>
-      location: Indiana, US
-      year: 04.22 - 08.22
-      description:
-        - Received the Korea government's full-funded scholarship and stipend.
-        - Developed the Perception system of Autonomous Vehicle in ROS and Linux by C++.  
-        - Collected video and GPS sensor data
-        - Published and Presented 'Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning Algorithm for Mobile Robot’ at the IEEE Conference on Robotic Computing.
+    # - title: Visiting Scholar, Department of Computer & IT
+    #   maindescription: <i> Purdue University, West Lafayette  </i>
+    #   location: Indiana, US
+    #   year: 04.22 - 08.22
+    #   description:
+    #     - Received the Korea government's full-funded scholarship and stipend.
+    #     - Developed the Perception system of Autonomous Vehicle in ROS and Linux by C++.  
+    #     - Collected video and GPS sensor data
+    #     - Published and Presented 'Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning Algorithm for Mobile Robot’ at the IEEE Conference on Robotic Computing.
 
     - title: Research Intern
       maindescription: <i> AIR (AI & Robotics) LAB </i>
       Advisor: Hyoseok Hwang
-      year: 12.21 - 02.22
-      description:
-       - Cleansed and Preprocessed the financial statements data of 60 companies in SQL. 
+      year: 2021.12.21 - 202.03.01
+      # description:
+      #  - Cleansed and Preprocessed the financial statements data of 60 companies in SQL. 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Technical Skills
   type: map
@@ -75,7 +94,7 @@
     - name: OS & Infra
       value: Linux, ROS, Git
     - name: ML & DL
-      value: PyTorch
+      value: PyTorch, Open3D
 
 - title: Award & Honors
   type: time_table
