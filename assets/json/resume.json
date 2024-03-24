@@ -3,34 +3,34 @@
     "name": "Jiwon Park",
     // "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "overflow21@khu.ac.kr",
+    // "phone": "(912) 123-4567",
+    // "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "Engineering student attending to Kyung Hee University, South Korea, currently doing an internship at Naver Labs (Team Robot Vision). Main research domain is AI&Robotics, especially 3D vision and SLAM.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      // "address": "2712 Broadway St",
+      // "postalCode": "CA 94115",
+      // "city": "San Francisco",
+      // "countryCode": "US",
+      "Country": "South Korea"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "YouTube",
+        // "username": "AlbertEinstein",
+        "url": "https://www.youtube.com/@zzziito"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Naver LABS",
+      "position": "Intern",
+      "url": "https://www.naverlabs.com/",
+      "startDate": "2024-03-11",
+      // "endDate": "1955-01-01",
+      "summary": "team Robot Vision",
+      // "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
