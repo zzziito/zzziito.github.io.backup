@@ -27,6 +27,6 @@ I am very interested in SLAM, Sensor Data Processing, ROS and
 everything related to AI & Robotics 🫶
 
 
-Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [overflow21@khu.ac.kr](mailto:jiwung22@gmail.com) 
+Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [overflow21@khu.ac.kr](mailto:overflow21@khu.ac.kr) 
 
 
