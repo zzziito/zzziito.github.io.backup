@@ -33,10 +33,10 @@
   contents:
     - year: 2024
       items:
-        - <i>Accepted:</i> <b>Transformer based Collision Detection Approach by Torque Estimation using Joint Information</b>, Jiwon Park, Daegyu Lim, Sumin Park, Hyeonjun Park, 2024 The Journal of Korea Robotics Society Vol.19 No.2
+        - <i>Accepted:</i> <b>Transformer based Collision Detection Approach by Torque Estimation using Joint Information</b>, <b>Jiwon Park>/b>, Daegyu Lim, Sumin Park, Hyeonjun Park, 2024 The Journal of Korea Robotics Society Vol.19 No.2
     - year: 2023
       items:
-        - <b>BumpyPatch, Heightmap-based Outdoor Point Cloud Segmentation to Find Less Bumpy Road</b>, Jiwon Park and Hyoseok Hwang, 2023 Seventh IEEE International Conference on Robotic Computing (IRC), LA, 2023
+        - <b>BumpyPatch, Heightmap-based Outdoor Point Cloud Segmentation to Find Less Bumpy Road</b>, <b>Jiwon Park</b> and Hyoseok Hwang, 2023 Seventh IEEE International Conference on Robotic Computing (IRC), LA, 2023
     - year: 2022
       items:
         - <b>Outdoor visual SLAM and Path Planning for Mobile-Robot</b>, S. Heo, J. Mun, J. Choi, <b>J. Park</b> and E. T. Matson, 2022 Sixth IEEE International Conference on Robotic Computing (IRC), Italy, 2022, pp. 296-301         
