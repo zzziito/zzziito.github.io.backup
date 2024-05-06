@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-KROS 저널에 낸 1 저자 논문이 통과되었습니다.  이름은 "Transformer based Collision Detection Approach by Torque Estimation using Joint Information" :D
+KROS 저널에 낸 1 저자 논문 (Transformer based Collision Detection Approach by Torque Estimation using Joint Information)이 통과되었습니다 📄
